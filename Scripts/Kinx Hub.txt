@@ -1,0 +1,19 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/inceldom/kinx/main/loader",true))()
+
+-----Games That Kinx Hub Supports-----
+
+-- 1 Universal Script
+
+-- 2 Tower Of Hell
+
+-- 3 Arsenal
+
+-- 4 Legends Of Speed
+
+-- 5 Bee Swarm Simulator
+
+-- 6 Prison Life
+
+-- 7 Murder Mystery 2
+
+-- 8 Phantom Forces

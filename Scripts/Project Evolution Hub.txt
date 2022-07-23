@@ -1,0 +1,9 @@
+loadstring(game:HttpGet("https://projectevo.xyz/script/loader.lua"))()
+
+-----Games That Project Evolution Hub Supports-----
+
+-- 1 Bad Business
+
+-- 2 Phantom Forces
+
+-- 3 Strucid

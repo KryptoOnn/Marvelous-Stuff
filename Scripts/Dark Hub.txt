@@ -1,0 +1,73 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init", true))()
+
+-----Games That Dark Hub Supports-----
+
+-- 1 Jailbreak 
+    
+-- 2 BubbleGumSimulator  
+    
+-- 3 Arsenal  
+    
+-- 4 ThickLegends  
+   
+-- 5 LegendsOfSpeed  
+    
+-- 6 SpeedChampions  
+    
+-- 7 BuildABoatForTreasure  
+   
+-- 8 FlightSimulator 
+    
+-- 9 RedWoodPrison  
+   
+-- 10 HorrficHousing  
+    
+-- 11 WelcomeToBloxburg  
+    
+-- 12 BladeThrowingSimulator  
+   
+-- 13 Flop  
+    
+-- 14 SuperBlockyBall  
+    
+-- 15 TiltyTokens  
+   
+-- 16 HideandSeekExtreme  
+    
+-- 17 DaHood  
+    
+-- 18 BigPaintball  
+    
+-- 19 ColorCraze  
+   
+-- 20 TheMaze  
+   
+-- 21 Eg  
+    
+-- 22 Strucid  
+    
+-- 23 PrisonLife
+    
+-- 24 CounterBlox  
+    
+-- 25 Murder Mystery 2 
+   
+-- 26 Area47  
+   
+-- 27 UntitledDoorGame  
+   
+-- 28 DrivingSim  
+    
+-- 29 TBMAIN  
+    
+-- 30 TBINGAME
+    
+-- 31 SoundSpace 
+    
+-- 32 PhantomForces
+   
+-- 33 BadShitter
+    
+-- 34 CarCrushers2
+    
+-- 35 RagdollEngine

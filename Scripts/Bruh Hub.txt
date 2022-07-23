@@ -1,0 +1,13 @@
+loadstring(game:HttpGet("https://bruh.keshsenpai.com/.lua"))()
+
+-----Games That Bruh Hub Supports-----
+
+-- 1 Phantom Forces
+
+-- 2 Project Lazarus
+
+-- 3 Ragdoll Engine
+
+-- 4 Ro-Ghoul
+
+-- 5 Shindo Life

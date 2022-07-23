@@ -1,0 +1,10 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mikehalesdev/Public/main/Script.lua"))()
+
+-- Games That EHub V4 Supports --
+
+-- 1 Phantom Forces
+
+-- Unknown Currently
+
+--Note : EHub V4 Isn't Stable In Phantom Forces
+--Expect Bugs, Glitches, Crashs And Freezes
